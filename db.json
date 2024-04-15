@@ -1,0 +1,64 @@
+{
+  "users": [
+    {
+      "sr": "1",
+      "country": "India",
+      "capital": "New Delhi",
+      "id": 4
+    },
+    {
+      "sr": "2",
+      "country": "United States Of America",
+      "capital": "Washington DC",
+      "id": 5
+    },
+    {
+      "sr": "3",
+      "country": "Israel",
+      "capital": "Tel Aviv",
+      "id": 6
+    },
+    {
+      "sr": "4",
+      "country": "El Salvador",
+      "capital": "Sal Salvador",
+      "id": 7
+    },
+    {
+      "sr": "5",
+      "country": "South Korea",
+      "capital": "Seoul",
+      "id": 8
+    },
+    {
+      "sr": "6",
+      "country": "North Korea",
+      "capital": "Pyongyang",
+      "id": 9
+    },
+    {
+      "sr": "7",
+      "country": "Ukrain",
+      "capital": "Kyiv",
+      "id": 10
+    },
+    {
+      "sr": "8",
+      "country": "Russia",
+      "capital": "Mascow",
+      "id": 11
+    },
+    {
+      "sr": "9",
+      "country": "Palestine",
+      "capital": "Jeruslem",
+      "id": 12
+    },
+    {
+      "sr": "10",
+      "country": "Pakistan",
+      "capital": "Islamabad",
+      "id": 13
+    }
+  ]
+}
